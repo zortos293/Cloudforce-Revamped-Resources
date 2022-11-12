@@ -2,19 +2,73 @@
     "Apps": [
         {
           "AppName": "Desktop",
-          "AppImage": "",
+          "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/desktop_480px.png",
           "AppDescription": "Runs script that opens Desktop",
-          "AppGFNIssues": "None",
+          "AppGFNIssues": "none",
           "AppGFNStatus": "Safe",
-          "AppExe": "overwatch\\_retail_\\Overwatch.exe"
+          "AppDownloadUrl": "https://files.zortos.me/Files/Launchers/ZortosShell.zip",
+          "AppExe": "ZortosDesktop\\bin\\explorer.exe",
+          "AppArguments": "-Desktop"
         },
         {
-          "AppName": "Desktop",
-          "AppImage": "",
-          "AppDescription": "Runs script that opens Desktop",
-          "AppGFNIssues": "None",
+          "AppName": "Explorer ++",
+          "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/opened_folder_480px.png",
+          "AppDescription": "Explorer++ is a free file manager for Windows. It features a familiar dual-pane interface and a host of powerful tools.",
+          "AppGFNIssues": "none",
           "AppGFNStatus": "Safe",
-          "AppExe": "overwatch\\_retail_\\Overwatch.exe"
+          "AppDownloadUrl": "https://picteon.dev/files/Explorer%2B%2B.exe",
+          "AppExe": "China.exe",
+          "AppArguments": ""
+        },
+        {
+          "AppName": "7-Zip",
+          "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/7zip.png",
+          "AppDescription": "7-zip is a free file archiver for Windows.",
+          "AppGFNIssues": "You can randomly Crash due to UADML",
+          "AppGFNStatus": "Unsafe",
+          "AppDownloadUrl": "https://picteon.dev/files/7-Zip.zip",
+          "AppExe": "\\7-Zip\\7zFM.exe",
+          "AppArguments": ""
+        },
+        {
+          "AppName": "Proccess Hacker",
+          "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/system_task_480px.png",
+          "AppDescription": "Procces Hacker is a free and open-source process viewer and manager for Windows.",
+          "AppGFNIssues": "none",
+          "AppGFNStatus": "Safe",
+          "AppDownloadUrl": "https://picteon.dev/files/ProcessHacker.zip",
+          "AppExe": "\\ProcessHacker\\ProcessHacker.exe",
+          "AppArguments": ""
+        },
+        {
+          "AppName": "Zortos Unzipper",
+          "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/New%20Project%20(3)%20(1).png",
+          "AppDescription": "Zortos Unzipper is a free and open-source unzipper for Windows.",
+          "AppGFNIssues": "none",
+          "AppGFNStatus": "Safe",
+          "AppDownloadUrl": "https://op-ffa.net/gfn/ZortosUnpwetterA.exe",
+          "AppExe": "ZortosUnpwetterA.exe",
+          "AppArguments": ""
+        },
+        {
+          "AppName": "Notepad 2",
+          "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/New%20Project%20(3)%20(1).png",
+          "AppDescription": "Notepad 2 is a free and open-source text editor for Windows.",
+          "AppGFNIssues": "none",
+          "AppGFNStatus": "Safe",
+          "AppDownloadUrl": "https://picteon.dev/files/Notepad2x64.exe",
+          "AppExe": "Notepad2x64.exe",
+          "AppArguments": ""
+        },
+        {
+          "AppName": "Discord",
+          "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/discord_480px.png",
+          "AppDescription": "Discord is a free and open-source voice and text chat app for Windows. (ONLY Works on GFN)",
+          "AppGFNIssues": "none",
+          "AppGFNStatus": "Safe",
+          "AppDownloadUrl": "https://dl.discordapp.net/distro/app/stable/win/x86/1.0.9007/DiscordSetup.exe",
+          "AppExe": "C:\\Users\\kiosk\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Discord Inc\\Discord.lnk",
+          "AppArguments": ""
         }
       ]
 }
