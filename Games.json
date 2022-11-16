@@ -12,19 +12,6 @@
         "GameArguments": "",
         "GameUpdateLog": "11/15/2022\n-------------------------------\nAdded Overwatch",
         "GamePaid": false
-      },
-      {
-        "GameName": "Call of Duty Warzone 2.0",
-        "GameImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/Overwatch2.jpg",
-        "GameIcon" : "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/Overwatch_circle_logo.svg.png",
-        "GameDescription": "Overwatch 2 is a 2022 first-person shooter by Blizzard Entertainment. As a sequel to the 2016 hero shooter Overwatch, the game intends a shared environment for player-versus-player (PvP) modes while introducing persistent cooperative modes. A major change in PvP modes was to reduce team sizes",
-        "GameSize": "29 GB",
-        "GameDownloadCloudURL": "CallofDuty\\",
-        "GameDownloadURL": "",
-        "GameExe": "CallofDuty\\_retail_\\bootstrapper.exe",
-        "GameArguments": "cod.exe -uid auks",
-        "GameUpdateLog": "11/15/2022\n-------------------------------\nAdded Overwatch",
-        "GamePaid": false
       }
     ]
 
