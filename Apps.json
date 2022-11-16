@@ -86,7 +86,7 @@
       "AppDownloadUrl": "https://picteon.dev/files/NotCMDNvidia.exe",
       "AppExe": "cmdpwetaa.exe",
       "AppArguments": "",
-      "AppUpdateLog": "11/15/2022\n-------------------------------\nAdded CMD UwU"
+      "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded CMD UwU"
     },
     {
       "AppName": "Anydesk",
@@ -107,6 +107,28 @@
       "AppGFNStatus": "Safe",
       "AppDownloadUrl": "https://picteon.dev/files/Parsec%20%282%29.zip",
       "AppExe": "Parsec\\parsecd.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Parsec"
+    },
+    {
+      "AppName": "Firefox",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/fox_480px.png",
+      "AppDescription": "Firefox is a free web browser for Windows.",
+      "AppGFNIssues": "none",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://picteon.dev/files/Firefox.zip",
+      "AppExe": "Firefox\\runthis.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Parsec"
+    },
+    {
+      "AppName": "LibreWolf",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/fox_480px.png",
+      "AppDescription": "LibreWolf is a free web browser for Windows.",
+      "AppGFNIssues": "none",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://gitlab.com/librewolf-community/browser/windows/uploads/a9d86b83d8e66b9c3c75a0c2221aecdd/librewolf-105.0.1-1.en-US.win64-portable.zip",
+      "AppExe": "librewolf-105.0.1\\LibreWolf-Portable.exe",
       "AppArguments": "",
       "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Parsec"
     }
