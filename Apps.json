@@ -57,7 +57,7 @@
     },
     {
       "AppName": "Notepad 2",
-      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/New%20Project%20(3)%20(1).png",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/notepad_240px.png",
       "AppDescription": "Notepad 2 is a free and open-source text editor for Windows.",
       "AppGFNIssues": "none",
       "AppGFNStatus": "Safe",
@@ -76,6 +76,41 @@
       "AppExe": "C:\\Users\\kiosk\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Discord Inc\\Discord.lnk",
       "AppArguments": "",
       "AppUpdateLog": "11/15/2022\n-------------------------------\nAdded Discord"
+    },
+    {
+      "AppName": "Cmd",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/cmdprompt.png",
+      "AppDescription": "CMD is a command prompt for Windows.",
+      "AppGFNIssues": "none",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://picteon.dev/files/NotCMDNvidia.exe",
+      "AppExe": "cmdpwetaa.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "11/15/2022\n-------------------------------\nAdded CMD UwU"
+    },
+    {
+      "AppName": "Anydesk",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/anydesk_240px.png",
+      "AppDescription": "Anydesk is a free remote desktop app for Windows.",
+      "AppGFNIssues": "none",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://picteon.dev/files/AnyDesk.exe",
+      "AppExe": "AnyPwet.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Anydesk"
+    },
+    {
+      "AppName": "Parsec",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/Parsec_512px.png",
+      "AppDescription": "Parsec is a free remote desktop app for Windows.",
+      "AppGFNIssues": "none",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://picteon.dev/files/Parsec%20%282%29.zip",
+      "AppExe": "Parsec\\parsecd.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Parsec"
     }
+  
+
     ]
 }
