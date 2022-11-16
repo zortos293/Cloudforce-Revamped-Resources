@@ -21,8 +21,8 @@
         "GameSize": "29 GB",
         "GameDownloadCloudURL": "CallofDuty\\",
         "GameDownloadURL": "",
-        "GameExe": "CallofDuty\\_retail_\\cod.exe",
-        "GameArguments": "",
+        "GameExe": "CallofDuty\\_retail_\\bootstrapper.exe",
+        "GameArguments": "cod.exe -uid auks",
         "GameUpdateLog": "11/15/2022\n-------------------------------\nAdded Overwatch",
         "GamePaid": false
       }
