@@ -12,6 +12,17 @@
       "AppUpdateLog": "11/15/2022\n-------------------------------\nAdded Desktop With Background and Start menu support"
     },
     {
+      "AppName": "Arcade", 
+      "AppImage": "https://raw.githubusercontent.com/afonsosousah/arcade/main/defaultLogoBlack.ico",
+      "AppDescription": "Arcade is a tool in picteon.dev which can be used using the black desert GFN method.",
+      "AppGFNIssues": "none",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://picteon.dev/files/Arcade.exe",
+      "AppExe": "Arcade.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "11/18/2022\n-------------------------------\nAdded Arcade" 
+    },
+    {
       "AppName": "Explorer ++",
       "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/opened_folder_480px.png",
       "AppDescription": "Explorer++ is a free file manager for Windows. It features a familiar dual-pane interface and a host of powerful tools.",
