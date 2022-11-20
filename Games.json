@@ -21,7 +21,7 @@
         "GameSize": "1 GB",
         "GameDownloadCloudURL": "",
         "GameDownloadURL": "https://cdn.discordapp.com/attachments/1029959860428742706/1030223464646312036/Minecraft.exe",
-        "GameExe": "Minecraft.exe",
+        "GameExe": "\\Minecraft.exe",
         "GameArguments": "",
         "GameUpdateLog": "11/20/2022\n-------------------------------\nAdded Minecraft",
         "GamePaid": false
@@ -34,7 +34,7 @@
         "GameSize": "1 GB",
         "GameDownloadCloudURL": "",
         "GameDownloadURL": "https://launcherupdates.lunarclientcdn.com/Lunar%20Client%20v2.14.0.exe",
-        "GameExe": "LunarClient.exe",
+        "GameExe": "\\LunarClient.exe",
         "GameArguments": "",
         "GameUpdateLog": "11/20/2022\n-------------------------------\nAdded Lunar Client",
         "GamePaid": false
@@ -52,9 +52,5 @@
         "GameUpdateLog": "11/20/2022\n-------------------------------\nAdded RBX Fps Unlocker",
         "GamePaid": false
       }
-
-
-
     ]
-
 }
