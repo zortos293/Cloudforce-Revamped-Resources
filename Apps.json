@@ -196,7 +196,7 @@
       "AppDownloadUrl": "https://files.zortos.me/Files/Emulators/yuzu.zip",
       "AppExe": "yuzu\\yuzu-windows-msvc\\yuzu.exe",
       "AppArguments": "",
-      "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Cemu"
+      "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Yuzu"
     },
     {
       "AppName": "Dolphin",
@@ -207,7 +207,18 @@
       "AppDownloadUrl": "https://files.zortos.me/Files/Emulators/Dolphin-x64.zip",
       "AppExe": "Dolphin-x64\\Dolphin.exe",
       "AppArguments": "",
-      "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Cemu"
+      "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Dolphin"
+    },
+    {
+      "AppName": "Ctrl + tab",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/ahk.png",
+      "AppDescription": "It is what the app name says",
+      "AppGFNIssues": "n/a",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://picteon.dev/files/CtrlTab%20%282%29.exe",
+      "AppExe": "ctrl_tab.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Ctel + tab"
     }
   
   
