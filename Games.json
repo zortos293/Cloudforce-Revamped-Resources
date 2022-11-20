@@ -13,7 +13,48 @@
         "GameArguments": "",
         "GameUpdateLog": "11/15/2022\n-------------------------------\nAdded Overwatch",
         "GamePaid": false
+      },
+      {
+        "GameName": "Minecraft",
+        "GameImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/mc.jpg",
+        "GameIcon" : "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/crafting_table_480px.png",
+        "GameDescription": "Minecraft is a sandbox video game developed by Mojang. The game was created by Markus Persson in the Java programming language. It was publicly released for the PC on May 17, 2009, as a developmental alpha version and, after gradual updates, was published as a full release version on November 18, 2011.",
+        "GameSize": "1 GB",
+        "GameDownloadCloudURL": "",
+        "GameDownloadURL": "https://cdn.discordapp.com/attachments/1029959860428742706/1030223464646312036/Minecraft.exe",
+        "GameExe": "Minecraft.exe",
+        "GameArguments": "",
+        "GameUpdateLog": "11/20/2022\n-------------------------------\nAdded Minecraft",
+        "GamePaid": false
+      },
+      {
+        "GameName": "Lunar Client",
+        "GameImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/mc.jpg",
+        "GameIcon" : "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/crafting_table_480px.png",
+        "GameDescription": "Minecraft is a sandbox video game developed by Mojang. The game was created by Markus Persson in the Java programming language. It was publicly released for the PC on May 17, 2009, as a developmental alpha version and, after gradual updates, was published as a full release version on November 18, 2011.",
+        "GameSize": "1 GB",
+        "GameDownloadCloudURL": "",
+        "GameDownloadURL": "https://launcherupdates.lunarclientcdn.com/Lunar%20Client%20v2.14.0.exe",
+        "GameExe": "LunarClient.exe",
+        "GameArguments": "",
+        "GameUpdateLog": "11/20/2022\n-------------------------------\nAdded Lunar Client",
+        "GamePaid": false
+      },
+      {
+        "GameName": "RobloxFPSUnlocker",
+        "GameImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/RobloxFpsUnlocker.jpg",
+        "GameIcon" : "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/RobloxFpsUnlocker.jpg",
+        "GameDescription": "Roblox FPS Unlocker is a free program that allows you to unlock the FPS limit in Roblox. This means that you can play Roblox at a higher FPS than the default 60 FPS. This is useful for people who have a high refresh rate monitor and want to play Roblox at a higher FPS.",
+        "GameSize": "10 MB",
+        "GameDownloadCloudURL": "",
+        "GameDownloadURL": "https://github.com/axstin/rbxfpsunlocker/releases/download/v4.4.3/rbxfpsunlocker-x64.zip",
+        "GameExe": "rbxfpsunlocker.exe",
+        "GameArguments": "",
+        "GameUpdateLog": "11/20/2022\n-------------------------------\nAdded RBX Fps Unlocker",
+        "GamePaid": false
       }
+
+
 
     ]
 
