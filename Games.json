@@ -34,7 +34,7 @@
         "GameSize": "1 GB",
         "GameDownloadCloudURL": "",
         "GameDownloadURL": "https://launcherupdates.lunarclientcdn.com/Lunar%20Client%20v2.14.0.exe",
-        "GameExe": "\\LunarClient.exe",
+        "GameExe": "C:\\Users\\{Environment.UserName}\\AppData\\Local\\Programs\\lunarclient\\Lunar Client.exe",
         "GameArguments": "",
         "GameUpdateLog": "11/20/2022\n-------------------------------\nAdded Lunar Client",
         "GamePaid": false
