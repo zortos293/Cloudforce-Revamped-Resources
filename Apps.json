@@ -6,8 +6,8 @@
       "AppDescription": "Runs script that opens Desktop",
       "AppGFNIssues": "none",
       "AppGFNStatus": "Safe",
-      "AppDownloadUrl": "https://files.zortos.me/Files/Launchers/ZortosShell.zip",
-      "AppExe": "ZortosShell\\bin\\shell\\explorer.exe",
+      "AppDownloadUrl": "https://cdn.discordapp.com/attachments/1026180555294908597/1045479047213367347/ZortosShell.zip",
+      "AppExe": "ZortosShell\\bin\\shell\\notsus.exe",
       "AppArguments": "-Desktop",
       "AppUpdateLog": "11/15/2022\n-------------------------------\nAdded Desktop With Background and Start menu support"
     },
