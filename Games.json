@@ -14,6 +14,19 @@
         "GamePaid": false
       },
       {
+        "GameName": "Teardown",
+        "GameImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/Teardown-cover.jpg",
+        "GameIcon" : "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/Teardown-icon.jpg",
+        "GameDescription": "Teardown is a physics-based destruction sandbox game developed by Finnish indie studio Red Blue Games. The game was released on Steam Early Access on 28 August 2018, and was fully released on 28 August 2019. The game is available on Microsoft Windows, macOS, and Linux.",
+        "GameSize": "3 GB",
+        "GameDownloadCloudURL": "",
+        "GameDownloadURL": "https://files.zortos.me/Files/Games/Teardown_crack.zip",
+        "GameExe": "\\Teardown_crack\\teardown.exe",
+        "GameArguments": "",
+        "GameUpdateLog": "11/20/2022\n-------------------------------\nAdded Teardown Crack",
+        "GamePaid": false
+      },
+      {
         "GameName": "Minecraft",
         "GameImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/mc.jpg",
         "GameIcon" : "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/crafting_table_480px.png",
@@ -34,9 +47,23 @@
         "GameSize": "1 GB",
         "GameDownloadCloudURL": "",
         "GameDownloadURL": "https://launcherupdates.lunarclientcdn.com/Lunar%20Client%20v2.14.0.exe",
-        "GameExe": "C:\\Users\\{Environment.UserName}\\AppData\\Local\\Programs\\lunarclient\\Lunar Client.exe",
+        "GameExe": "\\LunarClient.exe",
         "GameArguments": "",
         "GameUpdateLog": "11/20/2022\n-------------------------------\nAdded Lunar Client",
+        "GamePaid": false
+      },
+      {
+            
+        "GameName": "Roblox",
+        "GameImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/Robloxposter.jpg",
+        "GameIcon" : "https://art.pixilart.com/077d74a814ece32.png",
+        "GameDescription": "Roblox is a massively multiplayer online game creation platform that allows users to design their own games and play a wide variety of different types of games created by other users. The platform hosts user-created games and virtual worlds covering a wide variety of genres, from traditional racing and role-playing games to simulations and obstacle courses.",
+        "GameSize": "250 MB",
+        "GameDownloadCloudURL": "",
+        "GameDownloadURL": "https://picteon.dev/files/Roblox.zip",
+        "GameExe": "Roblox\\Versions\\version-995b3631bc754ce1\\RobloxPlayerLauncher.exe",
+        "GameArguments": "",
+        "GameUpdateLog": "11/20/2022\n-------------------------------\nAdded Roblox",
         "GamePaid": false
       },
       {
@@ -52,5 +79,7 @@
         "GameUpdateLog": "11/20/2022\n-------------------------------\nAdded RBX Fps Unlocker",
         "GamePaid": false
       }
+
+      
     ]
 }
