@@ -155,13 +155,24 @@
       "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Qbittorent"
     },
     {
+      "AppName": "Free Download Manager",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/FDM.png",
+      "AppDescription": "Free Download Manager is a powerful, easy-to-use and absolutely free download accelerator and manager. Moreover, FDM is 100% safe, open-source software distributed under GPL license. Free Download Manager accelerates all types of downloads (files, video, torrents). It's a smart and fast internet download manager for Windows and macOS.",
+      "AppGFNIssues": "n/a",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://files.zortos.me/Files/Launchers/FDM.zip",
+      "AppExe": "FDM/fdm.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "11/20/2022\n-------------------------------\nAdded FDM"
+    },
+    {
       "AppName": "RetroArch",
       "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/Retroarch-logo.jpg",
       "AppDescription": "RetroArch is a free emulator for Windows.",
       "AppGFNIssues": "none",
       "AppGFNStatus": "Safe",
       "AppDownloadUrl": "https://files.zortos.me/Files/Emulators/RetroArch-Win64.zip",
-      "AppExe": "RetroArch-Win64\\retroarch.exe",
+      "AppExe": "FDM\\fdm.exe",
       "AppArguments": "",
       "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded RetroArch"
     },
