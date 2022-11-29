@@ -166,6 +166,17 @@
       "AppUpdateLog": "11/20/2022\n-------------------------------\nAdded FDM"
     },
     {
+      "AppName": "Spotify",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/Spotify.png",
+      "AppDescription": "Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world.",
+      "AppGFNIssues": "none",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://picteon.dev/files/Spotify.zip",
+      "AppExe": "\\Spotify\\Spotify.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "11/29/2022\n-------------------------------\nAdded Spotify"
+    },
+    {
       "AppName": "RetroArch",
       "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/Retroarch-logo.jpg",
       "AppDescription": "RetroArch is a free emulator for Windows.",
