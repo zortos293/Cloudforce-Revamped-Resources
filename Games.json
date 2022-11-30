@@ -94,8 +94,8 @@
       },
       {
         "GameName": "BeamNG Drive (Steam Version)",
-        "GameImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/BeamMG.jpg",
-        "GameIcon" : "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/BeamMG.jpg",
+        "GameImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/BeamMG.png",
+        "GameIcon" : "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/BeamMG.png",
         "GameDescription": "BeamNG.drive is a realistic, immersive driving game offering near-limitless possibilities. Our soft-body physics engine simulates every component of a vehicle in real time, resulting in realistic, dynamic behavior. The game is designed with modding in mind, allowing players to create their own vehicles, maps, and more.",
         "GameSize": "36 GB",
         "GameDownloadCloudURL": "BeamNG.drive\\",
@@ -103,7 +103,7 @@
         "GameExe": "BeamNG.drive\\BeamNG.drive.exe",
         "GameArguments": "",
         "GameUpdateLog": "11/30/2022\n-------------------------------\nAdded BeamNG Drive (Steam Version) THIS IS A TEST",
-        "GamePaid": false
+        "GamePaid": true
       }
 
       
