@@ -103,9 +103,7 @@
         "GameExe": "BeamNG.drive\\BeamNG.drive.exe",
         "GameArguments": "",
         "GameUpdateLog": "11/30/2022\n-------------------------------\nAdded BeamNG Drive (Steam Version) THIS IS A TEST",
-        "GamePaid": false
+        "GamePaid": true
       }
-
-      
     ]
 }
