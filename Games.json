@@ -66,7 +66,19 @@
         "GamePaid": false
       },
       {
-            
+        "GameName": "Overwolf", 
+        "GameImage": "https://img.icons8.com/nolan/512/overwolf--v2.png",
+        "GameIcon" : "https://img.icons8.com/nolan/512/overwolf--v2.png",
+        "GameDescription": "I went after this program to install Overwolf CurseForge initially, but you can enjoy everything Overwolf Launcher provides.",
+        "GameSize": "300 MB",
+        "GameDownloadCloudURL": "",
+        "GameDownloadURL": "https://files.zortos.me/Files/Launchers/Overwolf.zip",
+        "GameExe": "Overwolf\\OverwolfLauncher.exe", 
+        "GameArguments": "",
+        "GameUpdateLog": "12/1/2022\n-------------------------------\nAdded Overwolf",
+        "GamePaid": false
+      },
+      {
         "GameName": "Roblox",
         "GameImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/Robloxposter.jpg",
         "GameIcon" : "https://art.pixilart.com/077d74a814ece32.png",
