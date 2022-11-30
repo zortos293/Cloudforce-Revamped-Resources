@@ -112,7 +112,9 @@
         "GameSize": "360 MB",
         "GameDownloadURL": "https://files.zortos.me/Files/Launchers/Growtopia.zip", 
         "GameExe": "Growtopia\\Growtopia.exe", 
-        "GameArguments": ""
+        "GameArguments": "",
+        "GameUpdateLog": "12/1/2022\n-------------------------------\nAdded Growtopia",
+        "GamePaid": false
       },
       {
         "GameName": "BeamNG Drive (Steam)",
