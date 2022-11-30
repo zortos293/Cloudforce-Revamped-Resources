@@ -1,6 +1,19 @@
 {
     "Games" : [
       {
+        "GameName": "CB Launcher",
+        "GameImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/CB.jpg",
+        "GameIcon" : "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/CB.jpg",
+        "GameDescription": "CB Luncher is a launcher made by Port007 Were you can download games and play them",
+        "GameSize": "2 MB",
+        "GameDownloadCloudURL": "",
+        "GameDownloadURL": "https://github.com/devporter007/binarybuildscb/releases/download/1.0/CB.Launcher.exe",
+        "GameExe": "CB.Launcher.exe",
+        "GameArguments": "",
+        "GameUpdateLog": "11/30/2022\n-------------------------------\nAdded CB Launcher",
+        "GamePaid": false
+      }
+      {
         "GameName": "Overwatch",
         "GameImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/Overwatch2.jpg",
         "GameIcon" : "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/Overwatch_circle_logo.svg.png",
@@ -10,7 +23,7 @@
         "GameDownloadURL": "",
         "GameExe": "overwatch\\_retail_\\Overwatch.exe",
         "GameArguments": "",
-        "GameUpdateLog": "11/15/2022\n-------------------------------\nAdded Overwatch",
+        "GameUpdateLog": "11/15/2022\n-------------------------------\nAdded Overwatch\n\n11/30/2022\n-------------------------------\nUpdated Overwatch 2 to season 2",
         "GamePaid": false
       },
       {
