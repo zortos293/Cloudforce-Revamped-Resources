@@ -46,7 +46,7 @@
         "GameDescription": "Minecraft is a sandbox video game developed by Mojang. The game was created by Markus Persson in the Java programming language. It was publicly released for the PC on May 17, 2009, as a developmental alpha version and, after gradual updates, was published as a full release version on November 18, 2011.",
         "GameSize": "1 GB",
         "GameDownloadCloudURL": "",
-        "GameDownloadURL": "https://cdn.discordapp.com/attachments/1029959860428742706/1030223464646312036/Minecraft.exe",
+        "GameDownloadURL": "https://launcher.mojang.com/download/Minecraft.exe",
         "GameExe": "\\Minecraft.exe",
         "GameArguments": "",
         "GameUpdateLog": "11/20/2022\n-------------------------------\nAdded Minecraft",
