@@ -105,6 +105,16 @@
         "GamePaid": false
       },
       {
+        "GameName": "Growtopia",
+        "GameImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/growtopia.png",
+        "GameIcon" : "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/growtopia.png",
+        "GameDescription": "Growtopia, commonly referred to as GT, is a massively multiplayer online sandbox video game where players can chat, farm, add friends, trade, build worlds, and engage in player versus player combat.",
+        "GameSize": "360 MB",
+        "GameDownloadURL": "https://files.zortos.me/Files/Launchers/Growtopia.zip", 
+        "GameExe": "Growtopia\\Growtopia.exe", 
+        "GameArguments": ""
+      },
+      {
         "GameName": "BeamNG Drive (Steam)",
         "GameImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/BeamMG.png",
         "GameIcon" : "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/BeamMG.png",
