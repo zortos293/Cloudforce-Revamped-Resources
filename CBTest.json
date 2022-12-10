@@ -1,0 +1,358 @@
+{
+    "games": [
+        {
+            "game_name":"Resident Evil 3",
+            "button_name":"resident_evil_3", 
+            "image":"resources/games/resident evil 3",
+            "image_url":"https://i.imgur.com/KL6ROKD.png",
+            "image_widget":"https://i.imgur.com/wHuaSeV.jpg",
+            "game_download":"dropit:RE3",
+            "exepath":"/re3.exe",
+            "game_size":"22 GB",
+            "save_path":"C:/Users/{}/AppData/Roaming/HOODLUM/952060/remote"
+        },
+        {
+            "game_name":"Immortals Fenyx Rising",
+            "type":"normal",
+            "button_name":"immortals_fenyx_rising_download",
+            "image":"resources/games/immortals fenyx rising",
+            "image_url":"https://i.imgur.com/8fKCo5K.png",
+            "image_widget":"https://i.imgur.com/7aS1d8V.jpg",
+            "game_download":"dropit:Immortals.Fenyx.Rising",
+            "exepath":"/Immortals.Fenyx.Rising/Immortals.Fenyx.Rising/Immortals.Fenyx.Rising/ImmortalsFenyxRising.exe",
+            "game_size":"35 GB",
+            "save_path":"C:/Users/{}/AppData/Roaming/Goldberg UplayEmu Saves/5405"
+        },
+        {
+            "game_name":"Detroit Become Human",
+            "type":"normal",
+            "button_name":"detroit_become_human_download",
+            "image":"resources/games/detroit become human",
+            "image_url":"https://i.imgur.com/Q2p6oTV.png",
+            "image_widget":"https://i.imgur.com/MnuImJJ.jpg",
+            "game_download":"dropit:Detroit",
+            "exepath":"/DetroitBecomeHuman.exe",
+            "game_size":"61 GB",
+            "save_path":"C:/Users/{}/Saved Games/Quantic Dream/Detroit Become Human"
+        },
+        {
+            "game_name":"Hitman 3",
+            "type":"normal",
+            "button_name":"hitman_3_download",
+            "image":"resources/games/hitman 3",
+            "image_url":"https://i.imgur.com/YMwmOQy.png",
+            "image_widget":"https://i.imgur.com/ws3035L.jpg",
+            "game_download":"dropit:Hitman3.M5.3.11",
+            "exepath":"/HITMAN3/Launcher.exe",
+            "game_size":"57 GB",
+            "save_path":"C:/Users/{}/AppData/Roaming/IO Interactive/Epic/1638/HITMAN3"
+        },
+        {
+            "game_name":"Star Wars Jedi Fallen Order",
+            "type":"normal",
+            "button_name":"star_wars_jedi_fallen_order_download",
+            "image":"resources/games/star wars jedi fallen order",
+            "image_url":"https://i.imgur.com/zbQvKzC.png",
+            "image_widget":"https://i.imgur.com/I1zSK3y.jpg",
+            "game_download":"porbub:SW-JFO",
+            "exepath":"/SwGame/Binaries/Win64/starwarsjedifallenorder.exe",
+            "game_size":"55 GB",
+            "save_path":"C:/Users/{}/Saved Games/Respawn"
+        },
+        {
+            "game_name":"Grand Theft Auto 5",
+            "type":"normal",
+            "button_name":"grand_theft_auto_v_download",
+            "image":"resources/games/grand theft auto 5",
+            "image_url":"https://i.imgur.com/1X69Lbk.png",
+            "image_widget":"https://i.imgur.com/Qdl0Aoj.png",
+            "game_download":"dropit:GTAV",
+            "exepath":"/GTAVLauncher.exe",
+            "game_size":"98 GB",
+            "save_path":"C:/Users/{}/AppData/Roaming/Goldberg SocialClub Emu Saves/GTA V"
+        },
+        {
+            "game_name":"Resident Evil 3",
+            "type":"normal",
+            "button_name":"resident_evil_3_download",
+            "image":"resources/games/resident evil 3",
+            "image_url":"https://i.imgur.com/KL6ROKD.png",
+            "image_widget":"https://i.imgur.com/wHuaSeV.jpg",
+            "game_download":"dropit:RE3",
+            "exepath":"/re3.exe",
+            "game_size":"22 GB",
+            "save_path":"C:/Users/{}/AppData/Roaming/HOODLUM/952060/remote"
+        },
+        {
+            "game_name":"Grand Theft Auto IV",
+            "type":"normal",
+            "button_name":"grand_theft_auto_iv_download",
+            "image":"https://i.ibb.co/3Bpp1s9/a32bc8141e168ff20fdfe3f0fbc72155.jpg",
+            "image_url":"https://i.ibb.co/3Bpp1s9/a32bc8141e168ff20fdfe3f0fbc72155.jpg",
+            "image_widget":"https://i.imgur.com/16u51ne.jpg",
+            "game_download":"griffin:GTAIV",
+            "exepath":"/GTAIV/LaunchGTAIV.exe",
+            "game_size":"22.2 GB",
+            "save_path":"C:/Users/{}/AppData/Roaming/Goldberg SocialClub Emu Saves/GTA IV"
+        },
+        {
+            "game_name":"Little Nightmares 2",
+            "type":"normal",
+            "button_name":"little_nightmares_2_download",
+            "image":"resources/games/little nightmares 2",
+            "image_url":"https://i.imgur.com/dtqAtuz.png",
+            "image_widget":"https://i.imgur.com/fBj4J38.jpg",
+            "game_download":"dropit:LittleNightmaresII",
+            "exepath":"/Helios/Binaries/Win64/Little Nightmares II.exe",
+            "game_size":"9 GB",
+            "save_path":"C:/Users/{}/AppData/Local/Helios/Saved/SaveGames"
+        },
+        {
+            "game_name":"Halo Master Chief Collection",
+            "type":"normal",
+            "button_name":"halo_master_chief_collection_download",
+            "image":"resources/games/halo master chief collection",
+            "image_url":"https://i.imgur.com/teAWMI5.png",
+            "image_widget":"https://i.imgur.com/kY03jFU.jpg",
+            "game_download":"dropit:halo-mcc",
+            "exepath":"/mcclauncher.exe",
+            "game_size":"85 GB",
+            "save_path":"C:/Users/Public/Documents/Steam/CODEX/976730"
+        },
+        {
+            "game_name":"DOOM",
+            "type":"normal",
+            "button_name":"doom_download",
+            "image":"resources/games/doom",
+            "image_url":"https://i.imgur.com/juiiYpL.png",
+            "image_widget":"https://i.imgur.com/uRxfbJl.jpg",
+            "game_download":"dropit:Doom/DOOM",
+            "exepath":"/DOOMx64vk.exe",
+            "game_size":"50 GB",
+            "save_path":"C:/Users/{}/Saved Games/id Software/DOOM/base/savegame.user"
+        },
+        {
+            "game_name":"DOOM Eternal",
+            "type":"normal",
+            "button_name":"doom_eternal_download",
+            "image":"resources/games/doom eternal",
+            "image_url":"https://i.imgur.com/1jHvGWk.png",
+            "image_widget":"https://i.imgur.com/OGxw5sO.jpg",
+            "game_download":"dropit:DOOMEternal",
+            "exepath":"/idTechLauncher.exe",
+            "game_size":"30 GB",
+            "save_path":"C:/Users/{}/Saved Games/id Software/DOOMEternal/base"
+        },
+        {
+            "game_name":"The Amazing Spider Man 2",
+            "type":"normal",
+            "button_name":"the_amazing_spider_man_2_download",
+            "image":"resources/games/the amazing spider man 2",
+            "image_url":"https://i.imgur.com/CvVp1QO.png",
+            "image_widget":"https://i.imgur.com/oDdf8zT.jpg",
+            "game_download":"dropit:The.Amazing.Spider.Man.2.Bundle",
+            "exepath":"/The.Amazing.Spider.Man.2.Bundle/The Amazing Spider Man 2 Bundle/ASM2Launcher.exe",
+            "game_size":"8 GB",
+            "save_path":"C:/Users/{}/AppData/Roaming/Steam/CODEX/267550/remote"
+        },
+        {
+            "game_name":"Mafia Definitive Edition",
+            "type":"normal",
+            "button_name":"mafia_definitive_edition_download",
+            "image":"resources/games/mafia definitive edition",
+            "image_url":"https://i.imgur.com/AYckjvm.png",
+            "image_widget":"https://i.imgur.com/EBhGwM9.jpg",
+            "game_download":"dropit:MAFIA.DE",
+            "exepath":"/mafiadefinitiveedition.exe",
+            "game_size":"36 GB",
+            "save_path":"C:/Users/{}/Documents/My Games/Mafia Definitive Edition"
+        },
+        {
+            "game_name":"Call of Duty WWII",
+            "type":"normal",
+            "button_name":"call_of_duty_wwii_download",
+            "image":"resources/games/call of duty wwii",
+            "image_url":"https://i.imgur.com/uKj2Kga.png",
+            "image_widget":"https://i.imgur.com/2sebWDP.jpg",
+            "game_download":"dropit:CallofDutyWWII",
+            "exepath":"/s2_sp64_ship.exe",
+            "game_size":"70 GB",
+            "save_path":" "
+        },
+        {
+            "game_name":"Hellblade Senua's Sacrifice",
+            "type":"normal",
+            "button_name":"hellblade_senuas_sacrifice_download",
+            "image":"resources/games/hellblade senuas sacrifice",
+            "image_url":"https://i.imgur.com/gIYqwAh.png",
+            "image_widget":"https://i.imgur.com/frpfau5.jpg",
+            "game_download":"cotton:hellblade/hellblade",
+            "exepath":"/HellbladeGame.exe",
+            "game_size":"20 GB",
+            "save_path":"C:/Users/cotton/AppData/Local/HellbladeGame"
+        },
+        {
+            "game_name":"Resident Evil 7",
+            "type":"normal",
+            "button_name":"resident_evil_7_download",
+            "image":"resources/games/resident evil 7",
+            "image_url":"https://i.imgur.com/KANKmua.png",
+            "image_widget":"https://i.imgur.com/JxvTPKK.jpg",
+            "game_download":"cotton:re7/re7",
+            "exepath":"/re7.exe",
+            "game_size":"38 GB",
+            "save_path":"C:/Users/Public/Documents/Steam/CODEX/418370"
+        },
+        {
+            "game_name":"Assassins Creed Rogue",
+            "type":"normal",
+            "button_name":"assassins_creed_rogue_download",
+            "image":"resources/games/assassins creed rogue",
+            "image_url":"https://i.imgur.com/fpajGDM.png",
+            "image_widget":"https://i.imgur.com/p5IuIAv.jpg",
+            "game_download":"cotton:ACRogue",
+            "exepath":"/ACC.exe",
+            "game_size":"12 GB",
+            "save_path":"C:/Users/{}/AppData/Roaming/uplay/CODEX/Saves/AssassinsCreedRogue"
+        },
+        {
+            "game_name":"Assassins Creed Syndicate",
+            "type":"normal",
+            "button_name":"assassins_creed_syndicate_download",
+            "image":"resources/games/assassins creed syndicate",
+            "image_url":"https://i.imgur.com/GLzn9MO.png",
+            "image_widget":"https://i.imgur.com/nrUjzK4.jpg",
+            "game_download":"cotton:ACSyndicate/ACSyndicate",
+            "exepath":"/ACS.exe",
+            "game_size":"62 GB",
+            "save_path":"C:/Users/{}/AppData/Roaming/uplay/CODEX/Saves/AssassinsCreedSyndicate"
+        },
+        {
+            "game_name":"Assassins Creed Origins",
+            "type":"normal",
+            "button_name":"assassins_creed_origins_download",
+            "image":"resources/games/assassins creed origins",
+            "image_url":"https://i.imgur.com/E9UsoRf.png",
+            "image_widget":"https://i.imgur.com/gyKIcHk.jpg",
+            "game_download":"cotton:ACOrigins",
+            "exepath":"/ACOrigins.exe",
+            "game_size":"73 GB",
+            "save_path":"C:/Users/Public/Documents/uPlay/CODEX/Saves/AssassinsCreedOrigins"
+        },
+        {
+            "game_name":"Assassins Creed Unity",
+            "type":"normal",
+            "button_name":"assassins_creed_unity_download",
+            "image":"resources/games/assassins creed unity",
+            "image_url":"https://i.imgur.com/HEKb60j.png",
+            "image_widget":"https://i.imgur.com/Ny0xAPb.jpg",
+            "game_download":"cotton:ACUnity",
+            "exepath":"/ACU.exe",
+            "game_size":"49 GB",
+            "save_path":"C:/ProgramData/Orbit/720/RLD!"
+        },
+        {
+            "game_name":"Shadow of the Tomb Raider",
+            "type":"normal",
+            "button_name":"shadow_of_the_tomb_raider_download",
+            "image":"resources/games/shadow of the tomb raider",
+            "image_url":"https://i.imgur.com/oSlwi73.png",
+            "image_widget":"https://i.imgur.com/NBzenHZ.jpg",
+            "game_download":"cotton:SOTTR/SOTTR",
+            "exepath":"/SOTTR.exe",
+            "game_size":"35 GB",
+            "save_path":"C:/Users/{}/Documents/Shadow of the Tomb Raider"
+        },
+        {
+            "game_name":"Rise of the Tomb Raider",
+            "type":"normal",
+            "button_name":"rise_of_the_tomb_raider_download",
+            "image":"resources/games/rise of the tomb raider",
+            "image_url":"https://i.imgur.com/MYkKv7d.png",
+            "image_widget":"https://i.imgur.com/dbARzvF.jpg",
+            "game_download":"cotton:ROTTR/ROTTR",
+            "exepath":"/ROTTR.exe",
+            "game_size":"34 GB",
+            "save_path":"C:/Users/{}/Documents/CPY_SAVES/CPY/391220"
+        },
+        {
+            "game_name":"Crash Bandicoot 4",
+            "type":"normal",
+            "button_name":"crash_bandicoot_4_download",
+            "image":"resources/games/crash bandicoot 4",
+            "image_url":"https://i.imgur.com/eV2GMeI.png",
+            "image_widget":"https://i.imgur.com/4Jh7XTz.jpg",
+            "game_download":"dropit:CB4/CB4",
+            "exepath":"/Lava/Binaries/Win64/Lava-Win64-Shipping.exe",
+            "game_size":"24 GB",
+            "save_path":"C:/Users/{}/AppData/Local/CrashBandicoot4/Saved/SaveGames"
+        },
+        {
+            "game_name":"Shattered Tale of the Forgotten King",
+            "type":"normal",
+            "button_name":"shattered_tale_of_the_forgotten_king_download",
+            "image":"resources/games/shattered tale of the forgotten king",
+            "image_url":"https://i.imgur.com/LX5fG1w.png",
+            "image_widget":"https://i.imgur.com/lN3AzVu.png",
+            "game_download":"dropit:STOFTK/STOFTK/STOFTK",
+            "exepath":"/ShatteredTOTFK/Binaries/Win64/ShatteredTOTFK-Win64-Shipping.exe",
+            "game_size":"11 GB",
+            "save_path":"C:/Users/{}/AppData/Local/ShatteredTOTFK"
+        },
+        {
+            "game_name":"Batman Arkham City",
+            "type":"normal",
+            "button_name":"batman_arkham_city_download",
+            "image":"resources/games/batman arkham city",
+            "image_url":"https://i.imgur.com/cf01SBj.png",
+            "image_widget":"https://i.imgur.com/sSaIW7o.jpg",
+            "game_download":"cotton:BAC/BAC/BAC",
+            "exepath":"/Binaries/Win32/BatmanAC.exe",
+            "game_size":"17 GB",
+            "save_path":"C:/Users/{}/Documents/WB Games/Batman Arkham City GOTY/SaveData"
+        },
+        {
+            "game_name":"Valheim",
+            "type":"normal",
+            "button_name":"valheim_download",
+            "image":"resources/games/valheim",
+            "image_url":"https://i.imgur.com/KxfiEiu.png",
+            "image_widget":"https://i.imgur.com/62oZrEv.jpg",
+            "game_download":"dropit:Valheim",
+            "exepath":"/valheim.exe",
+            "game_size":"1 GB",
+            "save_path":"C:/Users/{}/AppData/LocalLow/IronGate/Valheim"
+        },
+        {
+            "game_name":"Naruto Shippuden Ultimate Ninja Storm 4",
+            "type":"normal",
+            "button_name":"naruto_shippuden_ultimate_ninja_storm_4_download",
+            "image":"resources/games/naruto shippuden ultimate ninja storm 4",
+            "image_url":"https://i.imgur.com/EdVnPrP.png",
+            "image_widget":"https://i.imgur.com/GHSOBvs.jpg",
+            "game_download":"issa2:NUNS4",
+            "exepath":"/NSUNS4.exe",
+            "game_size":"39 GB",
+            "save_path":"C:/Users/{}/AppData/Roaming/Steam/CODEX/349040"
+        },
+        {
+            "game_name":"Jumpforce",
+            "type":"normal",
+            "button_name":"jumpforce_download",
+            "image":"resources/games/jumpforce",
+            "image_url":"https://i.imgur.com/nXash4f.png",
+            "image_widget":"https://i.imgur.com/ik5pZb3.jpg",
+            "game_download":"issa:JMPF",
+            "exepath":"/JUMP_FORCE.exe",
+            "game_size":"21 GB",
+            "save_path":"C:/Users/Public/Public Documents/Steam/CODEX/816020"
+        }
+    ]
+}
+
+
+
+
+
+
+
