@@ -124,7 +124,7 @@
         "GameSize": "25 GB",
         "GameDownloadCloudURL": "FallGuys\\",
         "GameDownloadURL": "",
-        "GameExe": "Epic Games\\Launcher\\Engine\\Binaries\\Win64\\EpicGamesLauncher.exe",
+        "GameExe": "\\Epic Games\\Launcher\\Engine\\Binaries\\Win64\\EpicGamesLauncher.exe",
         "GameArguments": "",
         "GameUpdateLog": "11/30/2022\n-------------------------------\nAdded Fall Guys OWO",
         "GamePaid": true
