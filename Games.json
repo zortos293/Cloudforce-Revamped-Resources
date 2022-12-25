@@ -115,19 +115,7 @@
         "GameArguments": "",
         "GameUpdateLog": "12/1/2022\n-------------------------------\nAdded Growtopia",
         "GamePaid": false
-      },
-      {
-        "GameName": "Fall Guys",
-        "GameImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/BeamMG.png",
-        "GameIcon" : "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/BeamMG.png",
-        "GameDescription": "Fall Guys is a massively multiplayer party game with up to 60 players online in a free-for-all struggle through round after round of escalating chaos until one victor remains!",
-        "GameSize": "25 GB",
-        "GameDownloadCloudURL": "FallGuys\\",
-        "GameDownloadURL": "",
-        "GameExe": "\\Epic Games\\Launcher\\Engine\\Binaries\\Win64\\EpicGamesLauncher.exe",
-        "GameArguments": "",
-        "GameUpdateLog": "11/30/2022\n-------------------------------\nAdded Fall Guys OWO",
-        "GamePaid": true
       }
+
     ]
 }
