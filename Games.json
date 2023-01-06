@@ -122,8 +122,9 @@
         "GameIcon" : "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/fivem.png",
         "GameDescription":"FiveM is a gta 5 multiplayer mod that allows you to play with your friends online.",
         "GameSize": "110 GB",
+        "GameDownloadURL": "",
         "GameDownloadCloudURL": "fivem1\\",
-        "GameExe": "{}\\FiveM\\FiveM.exe",
+        "GameExe": "\\FiveM\\FiveM.exe",
         "GameArguments": "",
         "GameUpdateLog": "1/6/2023\n-------------------------------\nAdded FiveM (Paid Users Only)",
         "GamePaid": true
