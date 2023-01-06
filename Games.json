@@ -115,6 +115,18 @@
         "GameArguments": "",
         "GameUpdateLog": "12/1/2022\n-------------------------------\nAdded Growtopia",
         "GamePaid": false
+      },
+      {
+        "GameName": "FiveM",
+        "GameImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/fivem.png",
+        "GameIcon" : "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/fivem.png",
+        "GameDescription":"FiveM is a gta 5 multiplayer mod that allows you to play with your friends online.",
+        "GameSize": "110 GB",
+        "GameDownloadCloudURL": "fivem1\\",
+        "GameExe": "{}\\FiveM\\FiveM.exe",
+        "GameArguments": "",
+        "GameUpdateLog": "1/6/2023\n-------------------------------\nAdded FiveM (Paid Users Only)",
+        "GamePaid": true
       }
 
     ]
