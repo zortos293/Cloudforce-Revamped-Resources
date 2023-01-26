@@ -1,5 +1,18 @@
 {
     "Games" : [
+       {
+        "GameName": "CF Game Ceneter",
+        "GameImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/CF_Game_Center_LOGO11.png",
+        "GameIcon" : "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/CF_Game_Center_LOGO11.png",
+        "GameDescription": "CF Game Center is made for CF!! Includes FiveM,Overwatch 2 and more!!",
+        "GameSize": "2 MB",
+        "GameDownloadCloudURL": "",
+        "GameDownloadURL": "https://files.zortos.me/Files/Expirimental/CF_Game_Center.exe",
+        "GameExe": "CF_Game_Center.exe",
+        "GameArguments": "",
+        "GameUpdateLog": "1/26/2023\n-------------------------------\nAdded CF Game Center",
+        "GamePaid": false
+      }, 
       {
         "GameName": "CB Launcher",
         "GameImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/CB.jpg",
@@ -11,19 +24,6 @@
         "GameExe": "CB.Launcher.exe",
         "GameArguments": "",
         "GameUpdateLog": "11/30/2022\n-------------------------------\nAdded CB Launcher",
-        "GamePaid": false
-      },
-      {
-        "GameName": "Overwatch",
-        "GameImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/Overwatch2.jpg",
-        "GameIcon" : "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/Overwatch_circle_logo.svg.png",
-        "GameDescription": "Overwatch 2 is a 2022 first-person shooter by Blizzard Entertainment. As a sequel to the 2016 hero shooter Overwatch, the game intends a shared environment for player-versus-player (PvP) modes while introducing persistent cooperative modes. A major change in PvP modes was to reduce team sizes",
-        "GameSize": "29 GB",
-        "GameDownloadCloudURL": "overwatch\\",
-        "GameDownloadURL": "",
-        "GameExe": "overwatch\\_retail_\\Overwatch.exe",
-        "GameArguments": "",
-        "GameUpdateLog": "11/15/2022\n-------------------------------\nAdded Overwatch\n\n11/30/2022\n-------------------------------\nUpdated Overwatch 2 to season 2",
         "GamePaid": false
       },
       {
@@ -115,20 +115,8 @@
         "GameArguments": "",
         "GameUpdateLog": "12/1/2022\n-------------------------------\nAdded Growtopia",
         "GamePaid": false
-      },
-      {
-        "GameName": "FiveM",
-        "GameImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/fivem.png",
-        "GameIcon" : "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/fivem.png",
-        "GameDescription":"FiveM is a gta 5 multiplayer mod that allows you to play with your friends online.",
-        "GameSize": "110 GB",
-        "GameDownloadURL": " ",
-        "GameDownloadCloudURL": "fivem1\\",
-        "GameExe": "\\FiveM\\FiveM.exe",
-        "GameArguments": "",
-        "GameUpdateLog": "1/6/2023\n-------------------------------\nAdded FiveM (Paid Users Only)",
-        "GamePaid": true
       }
+
 
     ]
 }
