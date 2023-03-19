@@ -95,7 +95,7 @@
       "AppGFNIssues": "none",
       "AppGFNStatus": "Safe",
       "AppDownloadUrl": "https://picteon.dev/files/NotCMDNvidia.exe",
-      "AppExe": "cmdpwetaa.exe",
+      "AppExe": "NotCMDNvidia.exe",
       "AppArguments": "",
       "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded CMD UwU"
     },
@@ -106,7 +106,7 @@
       "AppGFNIssues": "none",
       "AppGFNStatus": "Safe",
       "AppDownloadUrl": "https://picteon.dev/files/AnyDesk.exe",
-      "AppExe": "AnyPwet.exe",
+      "AppExe": "AnyDesk.exe",
       "AppArguments": "",
       "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Anydesk"
     },
@@ -238,7 +238,7 @@
       "AppGFNIssues": "n/a",
       "AppGFNStatus": "Safe",
       "AppDownloadUrl": "https://picteon.dev/files/CtrlTab%20%282%29.exe",
-      "AppExe": "ctrl_tab.exe",
+      "AppExe": "CtrlTab (2).exe",
       "AppArguments": "",
       "AppUpdateLog": "11/20/2022\n-------------------------------\nAdded Ctrl + tab"
     },
