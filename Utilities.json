@@ -1,0 +1,11 @@
+{
+  "Apps": [
+    {
+      "AppName": "Crash Bypass (GFN)",
+      "AppImage": "https://dashboard.snapcraft.io/site_media/appmedia/2020/10/gfn512.png",
+      "AppDownloadUrl": "https://github.com/blackinone1337/GeforceNOW-Uadml-Bypass/releases/download/v0.1-alpha/VoughtUadml.exe",
+      "AppExe": "VoughtUadml.exe",
+      "AppArguments": ""
+    }
+  ]
+}
