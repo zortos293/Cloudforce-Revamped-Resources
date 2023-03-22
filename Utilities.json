@@ -11,7 +11,7 @@
       "AppName": "Crash Bypass Free (GFN)",
       "AppImage": "https://dashboard.snapcraft.io/site_media/appmedia/2020/10/gfn512.png",
       "AppDownloadUrl": "https://files.zortos.me/Files/Expirimental/UadSol.exe",
-      "AppExe": "VoughtUadml.exe",
+      "AppExe": "UadSol.exe",
       "AppArguments": ""
     }
   ]
