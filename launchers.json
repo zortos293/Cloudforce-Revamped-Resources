@@ -6,6 +6,20 @@
       "AppDownloadUrl": "https://picteon.dev/files/Arcade.exe",
       "AppExe": "Arcade.exe",
       "AppArguments": ""
+    },
+    {
+      "AppName": "CF Game Ceneter",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/CF_Game_Center_LOGO11.png",
+      "AppDownloadUrl": "https://files.zortos.me/Files/Expirimental/CF_Game_Center.exe",
+      "AppExe": "CF_Game_Center.exe",
+      "AppArguments": "",
+    }, 
+    {
+      "AppName": "CB Launcher",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/CB.jpg",
+      "AppDownloadUrl": "https://github.com/devporter007/binarybuildscb/releases/download/1.0/CB.Launcher.exe",
+      "AppExe": "CB.Launcher.exe",
+      "AppArguments": "",
     }
   ]
 }
