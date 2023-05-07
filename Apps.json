@@ -182,7 +182,7 @@
       "AppDescription": "RetroArch is a free emulator for Windows.",
       "AppGFNIssues": "none",
       "AppGFNStatus": "Safe",
-      "AppDownloadUrl": "https://files.zortos.me/Files/Emulators/RetroArch-Win64.zip",
+      "AppDownloadUrl": "https://files.zortos.me/files/public/Emulators/RetroArch-Win64.zip",
       "AppExe": "FDM\\fdm.exe",
       "AppArguments": "",
       "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded RetroArch"
@@ -193,7 +193,7 @@
       "AppDescription": "Citra is a Nintendo 3DS emulator for Windows.",
       "AppGFNIssues": "File open window crashes gfn drag and drop your roms will fix it",
       "AppGFNStatus": "Unsafe",
-      "AppDownloadUrl": "https://files.zortos.me/Files/Emulators/Citra.zip",
+      "AppDownloadUrl": "https://files.zortos.me/files/public/Emulators/Citra.zip",
       "AppExe": "Citra\\nightly-mingw\\citra-qt.exe",
       "AppArguments": "",
       "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Citra"
@@ -204,7 +204,7 @@
       "AppDescription": "Cemu is a Wii U emulator for Windows.",
       "AppGFNIssues": "File open window crashes gfn drag and drop your roms will fix it",
       "AppGFNStatus": "Unsafe",
-      "AppDownloadUrl": "https://files.zortos.me/Files/Emulators/Citra.zip",
+      "AppDownloadUrl": "https://files.zortos.me/files/public/Emulators/Citra.zip",
       "AppExe": "cemu_1.27.1\\Cemu.exe",
       "AppArguments": "",
       "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Cemu"
@@ -215,7 +215,7 @@
       "AppDescription": "Yuzu is a Nintendo Switch emulator for Windows. (Prod.keys are preinstalled in the emulator)",
       "AppGFNIssues": "File open window crashes gfn drag and drop your roms will fix it",
       "AppGFNStatus": "Unsafe",
-      "AppDownloadUrl": "https://files.zortos.me/Files/Emulators/yuzu.zip",
+      "AppDownloadUrl": "https://files.zortos.me/files/public/Emulators/yuzu.zip",
       "AppExe": "yuzu\\yuzu-windows-msvc\\yuzu.exe",
       "AppArguments": "",
       "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Yuzu"
@@ -226,7 +226,7 @@
       "AppDescription": "Dolphin is a Nintendo Gamecube/Wii emulator for Windows.",
       "AppGFNIssues": "File open window crashes gfn drag and drop your roms will fix it",
       "AppGFNStatus": "Unsafe",
-      "AppDownloadUrl": "https://files.zortos.me/Files/Emulators/Dolphin-x64.zip",
+      "AppDownloadUrl": "https://files.zortos.me/files/public/Emulators/Dolphin-x64.zip",
       "AppExe": "Dolphin-x64\\Dolphin.exe",
       "AppArguments": "",
       "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Dolphin"
@@ -248,7 +248,7 @@
       "AppDescription": "Kdenlive is a video editor that is OPEN SOURCE!!",
       "AppGFNIssues": "n/a",
       "AppGFNStatus": "Safe",
-      "AppDownloadUrl": "https://files.zortos.me/Files/Apps/kdenlive.zip",
+      "AppDownloadUrl": "https://files.zortos.me/files/public/Apps/kdenlive.zip",
       "AppExe": "kdenlive-22.12.2_standalone\\bin\\kdenlive.exe",
       "AppArguments": "",
       "AppUpdateLog": "2/14/2023\n-------------------------------\nAdded Kdenlive"
