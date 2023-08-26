@@ -12,7 +12,7 @@
       "AppUpdateLog": "11/15/2022\n-------------------------------\nAdded Desktop With Background and Start menu support"
     },
     {
-      "AppName": "Arcade", 
+      "AppName": "Arcade",
       "AppImage": "https://raw.githubusercontent.com/afonsosousah/arcade/main/defaultLogoBlack.ico",
       "AppDescription": "Arcade is a tool in picteon.dev which can be used using the black desert GFN method.",
       "AppGFNIssues": "none",
@@ -20,7 +20,7 @@
       "AppDownloadUrl": "https://picteon.dev/files/Arcade.exe",
       "AppExe": "Arcade.exe",
       "AppArguments": "",
-      "AppUpdateLog": "11/18/2022\n-------------------------------\nAdded Arcade" 
+      "AppUpdateLog": "11/18/2022\n-------------------------------\nAdded Arcade"
     },
     {
       "AppName": "Explorer ++",
@@ -252,9 +252,17 @@
       "AppExe": "kdenlive-22.12.2_standalone\\bin\\kdenlive.exe",
       "AppArguments": "",
       "AppUpdateLog": "2/14/2023\n-------------------------------\nAdded Kdenlive"
+    },
+    {
+      "AppName": "Crash Bypass (GFN)",
+      "AppImage": "https://dashboard.snapcraft.io/site_media/appmedia/2020/10/gfn512.png",
+      "AppDescription": "Prevents GFN from crashing when opening a file explorer window. & more",
+      "AppGFNIssues": "n/a",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://files.zortos.me/Files/Expirimental/UadSol.exe",
+      "AppExe": "UadSol.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "2/14/2023\n-------------------------------\nAdded UadSol"
     }
-  
-  
-
-    ]
+  ]
 }
