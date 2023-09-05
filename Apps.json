@@ -188,17 +188,6 @@
       "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Citra"
     },
     {
-      "AppName": "Cemu",
-      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/cemu.png",
-      "AppDescription": "Cemu is a Wii U emulator for Windows.",
-      "AppGFNIssues": "File open window crashes gfn drag and drop your roms will fix it",
-      "AppGFNStatus": "Unsafe",
-      "AppDownloadUrl": "https://files.zortos.me/files/public/Emulators/Citra.zip",
-      "AppExe": "cemu_1.27.1\\Cemu.exe",
-      "AppArguments": "",
-      "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Cemu"
-    },
-    {
       "AppName": "Yuzu",
       "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/yuzu_tranparant.png",
       "AppDescription": "Yuzu is a Nintendo Switch emulator for Windows. (Prod.keys are preinstalled in the emulator)",
