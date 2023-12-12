@@ -98,7 +98,7 @@
         "GameDescription": "Roblox FPS Unlocker is a free program that allows you to unlock the FPS limit in Roblox. This means that you can play Roblox at a higher FPS than the default 60 FPS. This is useful for people who have a high refresh rate monitor and want to play Roblox at a higher FPS.",
         "GameSize": "10 MB",
         "GameDownloadCloudURL": " ",
-        "GameDownloadURL": "https://github.com/axstin/rbxfpsunlocker/releases/download/v4.4.3/rbxfpsunlocker-x64.zip",
+        "GameDownloadURL": "https://github.com/axstin/rbxfpsunlocker/releases/latest/download/rbxfpsunlocker-x64.zip",
         "GameExe": "rbxfpsunlocker.exe",
         "GameArguments": "",
         "GameUpdateLog": "11/20/2022\n-------------------------------\nAdded RBX Fps Unlocker",
