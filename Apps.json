@@ -7,7 +7,7 @@
       "AppGFNIssues": "File open window crashes gfn drag and drop your roms will fix it",
       "AppGFNStatus": "Unsafe",
       "AppDownloadUrl": "https://nightly.link/cemu-project/Cemu/workflows/build_check/main/cemu-bin-windows-x64.zip",
-      "AppExe": "cemu_1.27.1\\Cemu.exe",
+      "AppExe": "Cemu.exe",
       "AppArguments": "",
       "AppUpdateLog": "12/12/2023\n-------------------------------\nAdded Cemu, always latest version!"
     },
