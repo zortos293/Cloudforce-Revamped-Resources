@@ -1,6 +1,17 @@
 {
   "Apps": [
     {
+      "AppName": "Cemu",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/cemu.png",
+      "AppDescription": "Cemu is a Wii U emulator for Windows.",
+      "AppGFNIssues": "File open window crashes gfn drag and drop your roms will fix it",
+      "AppGFNStatus": "Unsafe",
+      "AppDownloadUrl": "https://nightly.link/cemu-project/Cemu/workflows/build_check/main/cemu-bin-windows-x64.zip",
+      "AppExe": "cemu_1.27.1\\Cemu.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "12/12/2023\n-------------------------------\nAdded Cemu, always latest version!"
+    },
+    {
       "AppName": "Desktop",
       "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/desktop_480px.png",
       "AppDescription": "Runs script that opens Desktop",
